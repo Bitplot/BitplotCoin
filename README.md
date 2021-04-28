@@ -1,5 +1,3 @@
-# BitplotCoin
-
 Bitplot Cryptocurrency
 ================================
 
